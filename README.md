@@ -1,4 +1,4 @@
-# Simple_Keylogger
+# Keylogger
 
 
 Keystroke Logger using pynput
